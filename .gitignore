@@ -1,0 +1,6 @@
+node_modules/
+temp/
+
+fly.toml
+.env 
+*.log
